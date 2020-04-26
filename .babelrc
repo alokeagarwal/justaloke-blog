@@ -1,0 +1,5 @@
+//this file is used to tell babel how to transform ES6 to node.js code
+
+{
+    "presets": ["@babel/preset-env"]
+}
